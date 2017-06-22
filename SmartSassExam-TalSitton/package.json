@@ -1,0 +1,11 @@
+{
+  "name": "smart-sass-exam",
+  "version": "1.0.0",
+  "description": "Tal Sitton, Sports Traders Exam",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tal Sitton",
+  "license": "ISC"
+}
